@@ -2,11 +2,11 @@
 ###Rule
 exact-match
 
-###Question a
-a
+###Question
+type a
 
 ###Match
-a,A,o
+a, A, o
 
 [VALIDATE_1]
 
@@ -16,13 +16,13 @@ a,A,o
 regex-substring
 
 ###Question
-autotest regex-sub-string:
-test1
-TEst2
+type 1 or 6
+1
+6
 
 
 ###Match
-autotest regex - substring
+a123456
 
 [VALIDATE_2]
 
