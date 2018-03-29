@@ -3,7 +3,7 @@
 exact-match
 
 ###Question
-type a
+type a only
 
 ###Match
 a
@@ -23,7 +23,7 @@ type 1 or 6
 
 
 ###Match
-a12 456
+1 6 
 
 [VALIDATE_2]
 
