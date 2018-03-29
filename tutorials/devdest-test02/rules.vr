@@ -2,11 +2,11 @@
 ###Rule
 exact-match
 
-###Question
-autotest extract-match rule:
+###Question a
+a
 
 ###Match
-autotest extract-match rule
+a,A,o
 
 [VALIDATE_1]
 
