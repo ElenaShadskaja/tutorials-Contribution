@@ -85,14 +85,21 @@ qrcode: true
 [ACCORDION-BEGIN [STEP 13](single-choice #3)] 
   
 [ACCORDION-BEGIN [STEP 101]( Extra match rules 200+)] 
+
 [VALIDATE_101] 
+
 [ACCORDION-END]
 
 
 [ACCORDION-BEGIN [STEP 102]( Extra match rules+)]  
+
 [VALIDATE_102] 
+
 [ACCORDION-END]
 
+
 [ACCORDION-BEGIN [STEP 103]( Extra match rules+)] 
+
 [VALIDATE_103] 
+
 [ACCORDION-END]
