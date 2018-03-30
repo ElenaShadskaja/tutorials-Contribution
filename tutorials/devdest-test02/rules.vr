@@ -11,6 +11,18 @@ a
 
 [VALIDATE_1]
 
+[VALIDATE_102]
+###Rule
+exact-match
+
+###Question
+?
+
+###Match
+?
+
+
+[VALIDATE_102]
 
 [VALIDATE_2]
 ###Rule
@@ -176,6 +188,7 @@ The text of question for single-choice #3
 [VALIDATE_13]
 
 
+
 [VALIDATE_101]
 ###Rule
 exact-match
@@ -187,3 +200,17 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 
 [VALIDATE_101]
+
+
+[VALIDATE_103]
+###Rule
+exact-match
+
+###Question
+type !"№;%:?*()__+/ only
+
+###Match
+!"№;%:?*()__+/
+
+
+[VALIDATE_103]
