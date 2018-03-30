@@ -180,9 +180,9 @@ The text of question for single-choice #3
 exact-match
 
 ###Question
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce in gravida est, sit amet suscipit eros. Nulla facilisi. Aliquam nibh sapien, congue ut porta in, pretium egestas leo. Sed viverra molestie ipsum, eu placerat justo vulputate vel. Morbi nullam?
+1Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce in gravida est, sit amet suscipit eros. Nulla facilisi. Aliquam nibh sapien, congue ut porta in, pretium egestas leo. Sed viverra molestie ipsum, eu placerat justo vulputate vel. Morbi nullam?
 ###Match
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce in gravida est, sit amet suscipit eros. Nulla facilisi. Aliquam nibh sapien, congue ut porta in, pretium egestas leo. Sed viverra molestie ipsum, eu placerat justo vulputate vel. Morbi nullam
+1Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce in gravida est, sit amet suscipit eros. Nulla facilisi. Aliquam nibh sapien, congue ut porta in, pretium egestas leo. Sed viverra molestie ipsum, eu placerat justo vulputate vel. Morbi nullam
 [VALIDATE_101]
 
 [VALIDATE_102]
