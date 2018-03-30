@@ -13,16 +13,19 @@ qrcode: true
  [ACCORDION-END]
  
  [ACCORDION-BEGIN [STEP 2]( Extra match rule 1 in question)] 
+ 
 [VALIDATE_2]
 
  [ACCORDION-END]
  
   [ACCORDION-BEGIN [STEP 3](Regex begins with)] 
+  
  [VALIDATE_3]
  
  [ACCORDION-END]
  
   [ACCORDION-BEGIN [STEP 4](Regex with id Exact Match)] 
+  
  [VALIDATE_4]
  
  [ACCORDION-END]
@@ -83,6 +86,9 @@ qrcode: true
 
 
 [ACCORDION-BEGIN [STEP 13](single-choice #3)] 
+[VALIDATE_13] 
+ 
+[ACCORDION-END]
   
 [ACCORDION-BEGIN [STEP 101]( Extra match rules 200+)] 
 
