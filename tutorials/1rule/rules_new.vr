@@ -1,31 +1,21 @@
 [VALIDATE_1]
 ###Rule
 exact-match
-
 ###Question
 autotest extract-match rule:
-
 ###Match
 autotest extract-match rule
-
 [VALIDATE_1]
-
-
 [VALIDATE_2]
 ###Rule
 regex-substring
-
 ###Question
 autotest regex-sub-string:
 test1
 TEst2
-
-
 ###Match
 autotest regex - substring
-
 [VALIDATE_2]
-
 [VALIDATE_3]
 ###Rule
 regex-begins-with
