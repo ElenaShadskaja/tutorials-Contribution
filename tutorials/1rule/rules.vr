@@ -220,10 +220,10 @@ one digit in the match
 exact-match
 
 ###Question
-#
+%
 
 ###Match
-one special symbol in the question
+%
 
 [VALIDATE_18]
 
