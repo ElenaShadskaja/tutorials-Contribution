@@ -6,13 +6,13 @@ tags: [tutorial:product/sapHana, tutorial:product/hana_studio]
 qrcode: true
 ---
 
-[ACCORDION-BEGIN [STEP 1]( Extra match rule)] 
+[ACCORDION-BEGIN [STEP 1]( Extra match rule 1 in answer)] 
    
 [VALIDATE_1]
  
  [ACCORDION-END]
  
- [ACCORDION-BEGIN [STEP 2]( Regex Sub-string)] 
+ [ACCORDION-BEGIN [STEP 2]( Extra match rule 1 in question)] 
 [VALIDATE_2]
 
  [ACCORDION-END]
@@ -84,7 +84,7 @@ qrcode: true
 
 [ACCORDION-BEGIN [STEP 13](single-choice #3)] 
   
-[ACCORDION-BEGIN [STEP 101]( Extra match rules+)] 
+[ACCORDION-BEGIN [STEP 101]( Extra match rules 200+)] 
 [VALIDATE_101] 
 [ACCORDION-END]
 
