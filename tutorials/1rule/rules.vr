@@ -97,16 +97,13 @@ The text of question for multi-choice #2
 [VALIDATE_11]
 ###Rule
 single-choice
-
 ###Question
 The text of question for single-choice #2
-
 ###Match
 [ ] Answer 1
 [ ] Answer 2
 [x] Answer 3
 [ ] Answer 4
-
 [VALIDATE_11]
 [VALIDATE_12]
 ###Rule
@@ -189,4 +186,11 @@ Lorem Ipsum
 ###Match
 Generated 1 paragraph, 39 words, 255 bytes of Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce in gravida est, sit amet suscipit eros. Nulla facilisi. Aliquam nibh sapien, congue ut porta in, pretium egestas leo. Sed viverra molestie ipsum, eu placerat justo vulputate vel. Morbi nullam.
 [VALIDATE_20]
+[VALIDATE_21]
+###Rule
+exact-match
+###Question
+###Match
+5
+[VALIDATE_21]
 
