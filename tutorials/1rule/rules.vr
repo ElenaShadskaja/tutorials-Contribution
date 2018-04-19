@@ -6,6 +6,7 @@ autotest extract-match rule
 ###Match
 autotest extract-match rule
 [VALIDATE_1]
+
 [VALIDATE_2]
 ###Rule
 regex-substring
@@ -16,6 +17,7 @@ TEst2
 ###Match
 autotest regex - substring
 [VALIDATE_2]
+
 [VALIDATE_3]
 ###Rule
 regex-begins-with
@@ -181,7 +183,7 @@ many special symbols in the match
 ###Rule
 exact-match
 ###Question
-Generated 1 paragraph, 39 words, 255 bytes of Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce in gravida est, sit amet suscipit eros. Nulla facilisi. Aliquam nibh sapien, congue ut porta in, pretium egestas leo. Sed viverra molestie ipsum, eu placerat justo vulputate vel. Morbi nullam.
+Generated 1 paragraph, 39 words, 255 bytes of Lorem ipsum dolor sit amet,  gravida est, sit amet suscipit eros. Nulla facilisi. Aliquam nibh sapien, congue ut porta in, pretium egestas leo. Sed viverra molestie ipsum, eu placerat justo vulputate vel. Morbi nullam.
 Lorem Ipsum
 ###Match
 Generated 1 paragraph, 39 words, 255 bytes of Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce in gravida est, sit amet suscipit eros. Nulla facilisi. Aliquam nibh sapien, congue ut porta in, pretium egestas leo. Sed viverra molestie ipsum, eu placerat justo vulputate vel. Morbi nullam.
