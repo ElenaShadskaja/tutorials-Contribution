@@ -1,5 +1,5 @@
 ---
-title: autotests validation form 
+title: qa validation form 
 description:autotests description
 primary_tag: tutorial>HANA
 tags: [tutorial:product/sapHana, tutorial:product/hana_studio]
@@ -127,6 +127,13 @@ qrcode: true
 [ACCORDION-BEGIN [STEP 20](long question)] 
   
  [VALIDATE_20] 
+ 
+[ACCORDION-END]
+
+
+[ACCORDION-BEGIN [STEP 21](question)] 
+  
+ [VALIDATE_21] 
  
 [ACCORDION-END]
 
