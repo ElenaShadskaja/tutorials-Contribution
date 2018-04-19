@@ -2,7 +2,7 @@
 ###Rule
 exact-match
 ###Question
-autotest extract-match rule:
+autotest extract-match rule
 ###Match
 autotest extract-match rule
 [VALIDATE_1]
