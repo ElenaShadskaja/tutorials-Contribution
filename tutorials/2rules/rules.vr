@@ -261,3 +261,15 @@ abc
 
 [VALIDATE_20]
 
+
+[VALIDATE]
+###Rule
+exact-match
+
+###Question
+@
+
+###Match
+one special symbol in the question
+
+[VALIDATE]
