@@ -5,10 +5,10 @@ exact-match
 
 
 ###Question
-autotest extract-match rule:
+autotest extract-match rule Abc:
 
 ###Match
-autotest extract-match rule
+Abc
 
 [VALIDATE_1]
 
@@ -18,13 +18,13 @@ autotest extract-match rule
 regex-substring
 
 ###Question
-autotest regex-sub-string:
-test1
-TEst2
+abc:
+testabc1
+TEstabc
 
 
 ###Match
-autotest regex - substring
+abc
 
 [VALIDATE_2]
 
@@ -35,10 +35,10 @@ regex-begins-with
 
 
 ###Question
-autotest regex-begins-with:
+autotest regex-begins-with  abc:
 
 ###Match
-autotest regex-begins-with rule 
+ abc[id] 
  
 [VALIDATE_3]
 
@@ -127,7 +127,7 @@ The text of question for single-choice
 multiple-choice
 
 ###Question
-The text of question for multi-choice #2
+The text of question for multi-choice #1/4
 
 ###Match
 [x] Answer 1
@@ -141,7 +141,7 @@ The text of question for multi-choice #2
 single-choice
 
 ###Question
-The text of question for single-choice #2
+The text of question for single-choice #3
 
 ###Match
 [ ] Answer 1
@@ -156,7 +156,7 @@ The text of question for single-choice #2
 multiple-choice
 
 ###Question
-The text of question for multi-choice #3
+The text of question for multi-choice #1/43
 
 ###Match
 [x] Answer 1
@@ -209,10 +209,10 @@ one digit in the question
 exact-match
 
 ###Question
-one letter in the match
+one letter in the match r
 
 ###Match
-R
+r
 
 [VALIDATE_16]
 
@@ -221,7 +221,7 @@ R
 exact-match
 
 ###Question
-one digit in the match
+one digit in the match 5
 
 ###Match
 5
@@ -237,7 +237,7 @@ exact-match
 @
 
 ###Match
-one special symbol in the question
+@
 
 [VALIDATE_18]
 
@@ -246,7 +246,7 @@ one special symbol in the question
 exact-match
 
 ###Question
-many special symbols in the match
+many special symbols in the match !@#$%^&*(){}_+-=~/<>|",?
 
 ###Match
 !@#$%^&*(){}_+-=~/<>|",?
