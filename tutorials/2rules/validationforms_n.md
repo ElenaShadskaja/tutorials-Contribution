@@ -2,8 +2,7 @@
 title: a validation form 16/08 1054
 description:autotests description
 primary_tag: tutorial>HANA
-tags: [tutorial:product/sapHana, tutorial>advanced, tutorial:product/hana_studio]
-qrcode: true
+tags: [tutorial:product/sapHana, tutorial>advanced]
 ---
 
 ### Time to Complete
